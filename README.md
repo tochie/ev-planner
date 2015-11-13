@@ -1,2 +1,2 @@
-# ibm-contact-module
-repo to hold IBM contact module variances
+# ev-panner
+repo to hold ev-panner related code
